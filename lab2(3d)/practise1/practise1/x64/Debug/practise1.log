@@ -1,0 +1,41 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1129,5): warning MSB8027: Two or more files with the name of main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\Downloads\codes-20260127T101958Z-3-001\codes\main.cpp, main.cpp.
+  main.cpp
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(294,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(295,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(300,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(301,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(306,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(307,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(312,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(313,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(318,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(319,74): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(320,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(321,74): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(322,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(323,70): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(324,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(326,70): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(327,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(329,70): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(330,70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(332,70): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(349,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(354,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(359,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(364,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(369,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(374,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(379,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(384,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(389,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(394,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(399,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(404,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(456,77): warning C4101: 'scaleMatrix': unreferenced local variable
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(472,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(472,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(473,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\Graphics\practise1\main.cpp(473,77): warning C4305: 'argument': truncation from 'double' to 'float'
+practise1\x64\Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+  practise1.vcxproj -> C:\Users\USER\Desktop\Graphics\practise1\x64\Debug\practise1.exe
