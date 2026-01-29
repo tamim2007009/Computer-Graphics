@@ -33,9 +33,11 @@ unsigned int coneVAO, coneVBO;
 unsigned int diskVAO, diskVBO;
 int cylinderVertexCount = 0;
 int coneVertexCount = 0;
-int diskVertexCount = 0;
+int diskVertexCount = 0; 
 
 void printControls() {
+	std:: cout << " Hello  world" << endl;
+
 	std::cout << "================= AIRPLANE CONTROLS =================" << std::endl;
 	std::cout << " [W, A, S, D] : Move Camera (Forward, Left, Back, Right)" << std::endl;
 	std::cout << " [E, R]       : Move Camera Vertical (Up, Down)" << std::endl;
@@ -946,6 +948,9 @@ int main() {
 	glDeleteShader(fs);
 
 	float lastT = 0.0f;
+
+	//glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+
 	while (!glfwWindowShouldClose(window)) {
 		float now = (float)glfwGetTime();
 		float dt = now - lastT;
